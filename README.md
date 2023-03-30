@@ -8,4 +8,4 @@ Start password is 1234.
 
 Shop Calc is available in 2 languages - English and Armenian.
 
-Support project https://ko-fi.com/artfixprog.
+Support project https://ko-fi.com/arthurstep.
